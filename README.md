@@ -39,8 +39,3 @@ A responsive web application that allows users to convert currency values in rea
 - Styling and layout with vanilla CSS
 
 ---
-
-## 🚀 Getting Started
-
-### 1. Clone the repository
-```bash
