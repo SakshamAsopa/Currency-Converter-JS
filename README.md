@@ -26,8 +26,7 @@ A responsive web application that allows users to convert currency values in rea
 
 ## 📸 Screenshot
 
-![Screenshot](screenshot(128).png)  
-_(Optional: Add a screenshot image of your app in the repo)_
+![Screenshot](screenshot(128).png)
 
 ---
 
